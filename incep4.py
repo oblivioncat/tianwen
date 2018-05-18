@@ -19,7 +19,7 @@ TRAIN_FILE = 'train.tfrecords'
 VALIDATION_FILE = 'validation.tfrecords'
 TEST_FILE = 'test.tfrecords'
 
-#index of experiments
+#index of this experiments
 exp = 3
 
 model_path = './model'
